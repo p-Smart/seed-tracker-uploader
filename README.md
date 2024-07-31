@@ -38,11 +38,3 @@ To get started with the project, follow these steps:
 1. Open the [front page](http://localhost:8008).
 2. Choose from the different post types.
 3. Submit Excel file or JSON, then click the "Upload" button to upload your data.
-
-## Custom Functionality
-
-If you need functionality for a specific WordPress post type, please contact the developer at [princeayokunle2002@gmail.com](mailto:princeayokunle2002@gmail.com).
-
-## Contact
-
-If you have any questions or need further assistance, please contact us at [princeayokunle2002@gmail.com](mailto:princeayokunle2002@gmail.com).
